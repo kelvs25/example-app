@@ -2,12 +2,6 @@ import Card from "@/Components/Card";
 import Pageheader from "@/Components/Pageheader";
 import Table from "@/Components/Table";
 import AuthenticatedLayout from "@/Layouts/AuthenticatedLayout";
-import { ArrowDownIcon, ArrowUpIcon } from "@heroicons/react/20/solid";
-import {
-    CursorArrowRaysIcon,
-    EnvelopeOpenIcon,
-    UsersIcon,
-} from "@heroicons/react/24/outline";
 
 const stats = [
     { name: "Card One", stat: "Active" },
